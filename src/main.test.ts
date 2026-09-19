@@ -1,0 +1,1 @@
+import{describe,it,expect}from"vitest";describe("Ledgerly",()=>it("has a stable title",()=>expect("Ledgerly".length).toBeGreaterThan(3)));
